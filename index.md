@@ -14,7 +14,7 @@ With GPyOpt you can:
 - Automatically configure your models and Machine Learning algorithms.
 - Design your wet-lab experiments saving time and money.
 
-Among other functionalities, with GPyOpt you can design experiments in parallel, use cost models and mix different types of variables in your designs. Many users already use GpyOpt for research purposes.
+Among other functionalities, with GPyOpt you can design experiments in parallel, deal with cost-sensitive objectives and mix different types of variables. Many users already use GpyOpt for research purposes.
 
 ## Open Code & License
 
