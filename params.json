@@ -1,0 +1,6 @@
+{
+  "name": "GPyOpt ÚTIA Fork",
+  "tagline": "Our Sandbox for Gaussian Process Optimization using GPy",
+  "body": "### Welcome to our GPyOpt fork\r\nThis repository will hold a slightly updated version of the original GPyOpt tree by @sheffieldml. We plan to work on slightly different aspects of Bayesian optimisation than the original GPyOpt authors and hope to contribute small patches containing code corrections, source code comments, and performance improvements along our way.\r\n\r\n### How to use our code\r\nThe current prerequisites (CPython, numpy, GPy versions) are listed in the project Wiki. Install them and download the tarball or ZIP from this page and you shall be able to test the features we are working on.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
